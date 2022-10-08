@@ -1,5 +1,0 @@
-============ criar funcionalidade barra lateral =============== 
-  
-  ~~
-
-
